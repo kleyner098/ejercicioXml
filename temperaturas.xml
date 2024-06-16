@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Registros>
+    <RegistroTemp Fecha="2024-06-16">
+        <TempMaxima>20</TempMaxima>
+        <TempMinima>12</TempMinima>
+    </RegistroTemp>
+    <RegistroTemp Fecha="2024-06-16">
+        <TempMaxima>40</TempMaxima>
+        <TempMinima>12</TempMinima>
+    </RegistroTemp>
+    <RegistroTemp Fecha="2024-06-16">
+        <TempMaxima>50</TempMaxima>
+        <TempMinima>30</TempMinima>
+    </RegistroTemp>
+</Registros>

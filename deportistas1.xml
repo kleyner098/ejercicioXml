@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Deportista>
+    <deportista>
+        <nombre>Pedro</nombre>
+        <edad>23</edad>
+        <peso>89.3</peso>
+        <estatura>1.89</estatura>
+    </deportista>
+    <deportista>
+        <nombre>Juan</nombre>
+        <edad>30</edad>
+        <peso>70.2</peso>
+        <estatura>1.75</estatura>
+    </deportista>
+    <deportista>
+        <nombre>Ana</nombre>
+        <edad>25</edad>
+        <peso>60.5</peso>
+        <estatura>1.68</estatura>
+    </deportista>
+</Deportista>

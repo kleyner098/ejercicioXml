@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<deportista>
+    <nombre>Pedro</nombre>
+    <edad>23</edad>
+    <peso>89.3</peso>
+    <estatura>1.89</estatura>
+</deportista>
